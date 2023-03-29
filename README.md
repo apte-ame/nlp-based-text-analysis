@@ -4,7 +4,7 @@ Hi there! 👋
 
 Welcome to Book NLP Analysis, a project that lets you explore and understand books using natural language processing techniques. 
 
-*** In this project, you will learn how to: 
+### In this project, you will learn how to: 
 
 - Visualize the similarity between different parts of a book and identify key themes or topics using `BERT embedding` 📊
 - Summarize the book by selecting the most relevant sentences that capture the main idea of each chapter or section using `TextRank algorithm` 📝
@@ -13,7 +13,7 @@ Welcome to Book NLP Analysis, a project that lets you explore and understand boo
 - Identify the most frequent or significant words in the book and their probabilities of occurrence using `Bayesian regression` and `word cloud generation`. 🌥️
 - Understand how different aspects of the book affect each other and influence its overall tone or mood using `Generalized Linear Model (GLM)`. 🎭
 
-*** This project uses various Python libraries such as : 
+### This project uses various Python libraries such as : 
 * NLTK 
 * Spacy
 * TextHero
@@ -29,7 +29,7 @@ Welcome to Book NLP Analysis, a project that lets you explore and understand boo
 -	To get started, clone this repository to your local machine and open the notebook file in Jupyter Notebook or Google Colab. You can also download the book data from this link and place it in the data folder. 📁
 
 
-*** Then, follow the instructions in the notebook and enjoy the analysis! 
+### Then, follow the instructions in the notebook and enjoy the analysis! 
 
 If you have any questions, suggestions, or feedback, feel free to contact me at nainil30maladkar@gmail.com  💬
 
