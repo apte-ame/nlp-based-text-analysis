@@ -31,6 +31,6 @@ Welcome to Book NLP Analysis, a project that lets you explore and understand boo
 
 ### Then, follow the instructions in the notebook and enjoy the analysis! 
 
-If you have any questions, suggestions, or feedback, feel free to contact me at nainil30maladkar@gmail.com  💬
+If you have any questions, suggestions, or feedback, feel free to contact me at apte.ame@northeastern.edu  💬
 
 Happy reading and analysing! 🎉
